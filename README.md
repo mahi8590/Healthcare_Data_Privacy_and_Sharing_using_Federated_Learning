@@ -52,5 +52,11 @@ Due to GitHub size limitations, the dataset is **not included** in this reposito
 ### Download Dataset from Kaggle:
 - https://www.kaggle.com/datasets/andrewmvd/medical-mnist
 
+
+
 ## Flow Diagram:
-![Healthcare Privacy Flow Diagram](HealthCare_Privacy/Screenshots/flowdiagram.png)
+
+![Healthcare Flow Diagram](Screenshots/flow%20diagram.png)
+
+*Flow diagram illustrating healthcare data privacy and federated learning workflow.*
+
