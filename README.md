@@ -56,7 +56,7 @@ Due to GitHub size limitations, the dataset is **not included** in this reposito
 
 ## Flow Diagram:
 
-![Healthcare Flow Diagram](Screenshots/flow%20diagram.png)
+![Healthcare Flow Diagram](Screenshots/flow_diagram.png)
 
 *Flow diagram illustrating healthcare data privacy and federated learning workflow.*
 
